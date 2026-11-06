@@ -1,6 +1,11 @@
 # VertXploit
 Exploiting HID VertX and EDGE access control systems
 
+# Dork Shodan find Device VertX
+```
+HID VertX
+```
+
 ## Summary ##
 VertXploit is a tool that can be used to exploit HID VertX and EDGE access control systems. 
 
