@@ -9,7 +9,7 @@ HID VertX
 ## Summary ##
 VertXploit is a tool that can be used to exploit HID VertX and EDGE access control systems. 
 
-A vulnerability exists within the discoveryd service, which fails to sanitize user data before executing system calls. This allows for arbitrary code execution on HID VertX and EDGE access control systems without needing to be authenticated. See the [Command Injection](https://github.com/hellobytecodes/VertXploit/blob/master/README.md#command-injection) section for more information.
+A vulnerability exists within the discoveryd service, which fails to sanitize user data before executing system calls. This allows for arbitrary code execution on HID VertX and EDGE access control systems without needing to be authenticated. See the [Command Injection](https://github.com/hellobytecodes/VertXploit/blob/main/README.md#command-injection) section for more information.
 
 VertXploit can unlock or lock doors connected to the access control system, download the databases containing all of the provisioned/cached access control cards, and execute arbitrary commands as root on the VertX system, if vulnerable.
 
